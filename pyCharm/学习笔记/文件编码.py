@@ -8,6 +8,7 @@
 
     python3 可以直接转
 '''
+
 s = '你好'
 s_to_gbk = s.encode('gbk')
 print(s_to_gbk)
